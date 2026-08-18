@@ -140,7 +140,7 @@
         <div class="heading text-center">
             <!-- Heading -->
             <h2>Management</h2>
-            <p>We have the team of two employee only till now.</p>
+            <p>We have the team of only one.</p>
         </div>
         <!-- Team Member's Details -->
         <div class="team-content">
@@ -166,14 +166,14 @@
                     <!-- Team Member -->
                     <div class="team-member pDark">
                         <!-- Image Hover Block -->
-                        <div class="member-img">
+                        <%--<div class="member-img">
                             <!-- Image  -->
                             <img class="img-responsive text-center"
-                                 src="${baseUrl}/resources/new-design/dashboard/images/balika.jpg" alt=""></div>
+                                 src="${baseUrl}/resources/new-design/dashboard/images/balika.jpg" alt=""></div>--%>
                         <!-- Member Details -->
-                        <h4>Balika Thapa</h4>
+<%--                        <h4>Balika Thapa</h4>--%>
                         <!-- Designation -->
-                        <span class="pos">Student</span>
+<%--                        <span class="pos">Student</span>--%>
                         <%--                        <div class="team-socials"> <a href="#"><i class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-google-plus"></i></a> <a href="#"><i class="fa fa-twitter"></i></a> <a href="#"><i class="fa fa-dribbble"></i></a> <a href="#"><i class="fa fa-github"></i></a> </div>--%>
                     </div>
                 </div>

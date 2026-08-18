@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta name="description" content="Waste Management System">
-    <meta name="author" content="Aarya Chaudhary Vs Balika Thapa">
+    <meta name="author" content="Aarya Chaudhary">
     <link rel="shortcut icon" href="${baseUrl}/resources/bootstrap5/favicon.ico">
 
     <!-- FontAwesome JS-->

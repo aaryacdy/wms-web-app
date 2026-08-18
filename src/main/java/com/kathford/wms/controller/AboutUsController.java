@@ -36,7 +36,7 @@ public class AboutUsController {
 
         Helper.setTitle(model, "About Us");
 //        model.addAttribute("aboutUs", aboutService.findById(32l));
-        model.addAttribute("aboutUs", aboutService.findById(23L));
+        model.addAttribute("aboutUs", aboutService.findById(10L));
         model.addAttribute("baseUrl", request.getContextPath());
 
         return "about-us/message";

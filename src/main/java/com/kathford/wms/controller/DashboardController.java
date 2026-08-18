@@ -81,7 +81,7 @@ public class DashboardController {
 
         Helper.setTitle(model, "Contact");
         model.addAttribute("baseUrl", request.getContextPath());
-        model.addAttribute("aboutUs", aboutService.findById(32l));
+        model.addAttribute("aboutUs", aboutService.findById(10l));
 
         return "user/contact";
     }

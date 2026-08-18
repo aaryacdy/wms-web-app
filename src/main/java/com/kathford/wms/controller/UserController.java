@@ -88,7 +88,7 @@ public class UserController {
         Helper.setTitle(model, "Home page");
         model.addAttribute("baseUrl", request.getContextPath());
 //        model.addAttribute("aboutUs", aboutService.findById(32l));
-        model.addAttribute("aboutUs", aboutService.findById(23L));
+        model.addAttribute("aboutUs", aboutService.findById(10L));
 
         return "new-design/dashboard";
     }
